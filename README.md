@@ -28,8 +28,11 @@
 
 ## 安装
 
-1.下载[BepInEx](https://github.com/BepInEx/BepInEx/releases)，将其解压到游戏根目录
-2.下载本仓库zip，将解压到的BepInEx文件夹整个复制到游戏根目录
+1. 下载[BepInEx](https://github.com/BepInEx/BepInEx/actions/workflows/build.yml)，将其解压到游戏根目录
+    1. 上面的链接指向BepInEx的最新build
+    2. 进入链接后点击最新的构建，在页面最下方找到打包好的内容下载
+    3. 解压到根目录，release中的版本过旧不支持当前游戏
+2. 下载本仓库zip，将解压到的BepInEx文件夹整个复制到游戏根目录
 
 ## 多人模式
 
